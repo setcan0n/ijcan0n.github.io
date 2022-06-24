@@ -1,6 +1,6 @@
 # IJ.Start.Canon | Canon IJ Printer Setup
 
-[![canon.com/ijsetup](now-button-image.png)](/)
+[![canon.com/ijsetup](Get-Started.png)](/)
 
 Go to the **“[ij.start.canon](/)”** website to download the latest canon printer drivers. Use an updated version of your web browser, and you will get an updated version of the canon printer driver. You can also install the canon printer drivers using a cd rom that you get along with the canon printer. Also, connect your Canon printer with the wired or wireless method. So these are the main process that we have explained below. Follow those steps to finish the canon setup.
 
